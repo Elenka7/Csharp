@@ -1,0 +1,15 @@
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\bin\Debug\net7.0\Task_2.exe
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\bin\Debug\net7.0\Task_2.deps.json
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\bin\Debug\net7.0\Task_2.runtimeconfig.json
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\bin\Debug\net7.0\Task_2.dll
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\bin\Debug\net7.0\Task_2.pdb
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\obj\Debug\net7.0\Task_2.csproj.AssemblyReference.cache
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\obj\Debug\net7.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\obj\Debug\net7.0\Task_2.AssemblyInfo.cs
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\obj\Debug\net7.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\obj\Debug\net7.0\Task_2.dll
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\obj\Debug\net7.0\refint\Task_2.dll
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\obj\Debug\net7.0\Task_2.pdb
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\obj\Debug\net7.0\Task_2.genruntimeconfig.cache
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_2\obj\Debug\net7.0\ref\Task_2.dll
