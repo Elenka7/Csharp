@@ -1,13 +1,22 @@
-﻿// Найдём все чётные числа от 1 до N
-Console.WriteLine("Введите число: ");
+﻿// Найдём все чётные числа от 1 до N с учетом отрицательных
+Console.WriteLine(" Введите число: ");
 
-int n = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine());
 
-for(int i = 1; i <= n;)
+if (number > 0)
 {
-   if(i%2 == 0)
-   {
-    Console.WriteLine(i);
-   }
-i++;
+    for (int i = 2; i <= number; i = i + 2)
+    {
+        Console.WriteLine(i);
+    }
+}
+else
+{
+    for (int z = number; z < 0; z++)
+    {
+        if (z % 2 == 0)
+        {
+            Console.WriteLine(z);
+        }
+    }
 }
