@@ -1,0 +1,15 @@
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\obj\Debug\net7.0\Task_8.csproj.AssemblyReference.cache
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\obj\Debug\net7.0\Task_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\obj\Debug\net7.0\Task_8.AssemblyInfoInputs.cache
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\obj\Debug\net7.0\Task_8.AssemblyInfo.cs
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\obj\Debug\net7.0\Task_8.csproj.CoreCompileInputs.cache
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\bin\Debug\net7.0\Task_8.exe
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\bin\Debug\net7.0\Task_8.deps.json
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\bin\Debug\net7.0\Task_8.runtimeconfig.json
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\bin\Debug\net7.0\Task_8.dll
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\bin\Debug\net7.0\Task_8.pdb
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\obj\Debug\net7.0\Task_8.dll
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\obj\Debug\net7.0\refint\Task_8.dll
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\obj\Debug\net7.0\Task_8.pdb
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\obj\Debug\net7.0\Task_8.genruntimeconfig.cache
+C:\Users\37544\Desktop\Csharp_NW_1\Csharp\Task_8\obj\Debug\net7.0\ref\Task_8.dll
